@@ -11,6 +11,17 @@ Proyecto de escritorio desarrollado en **Java** para la gestión de usuarios y c
 * **Gestor de Dependencias:** Maven
 * **IDE Recomendado:** Apache NetBeans
 
+## 📸 Capturas de Pantalla
+
+**1. Pantalla de Login (Control de Acceso por Roles):**
+<img width="535" height="716" alt="login" src="https://github.com/user-attachments/assets/8ffae8d2-01d1-4b87-93f2-cf4c0d3490b5" />
+
+**2. Panel de Administrador (Vista de tabla y operaciones CRUD):**
+<img width="1036" height="735" alt="PrincipalAdmin" src="https://github.com/user-attachments/assets/c5825678-942c-4018-a7b5-d3be16b2ed3b" />
+
+**3. Formulario de Alta y Edición de Usuarios:**
+<img width="1032" height="742" alt="altaUsuarios" src="https://github.com/user-attachments/assets/2cadcfca-c4e6-4c7b-a9d5-2110a10b8f08" />
+
 ## 📂 Arquitectura del Proyecto
 
 El proyecto sigue un **Patrón de Arquitectura multicapa** altamente estructurado, separando responsabilidades visuales, lógicas y de base de datos:

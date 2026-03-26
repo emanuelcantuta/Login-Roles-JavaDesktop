@@ -1,0 +1,13 @@
+# Archivos compilados de Maven
+target/
+*.class
+
+# Configuraciones del IDE (NetBeans, Eclipse, IntelliJ)
+nbproject/private/
+.idea/
+*.iml
+*.log
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
